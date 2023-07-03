@@ -19,7 +19,6 @@ git clone https://github.com/ch3atk0d3/Zeus.git
 cd Zeus
 chmod +x install.sh
 sudo ./install.sh
-
 ```
 
 **Note**
