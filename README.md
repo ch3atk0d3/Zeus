@@ -12,6 +12,16 @@ While solving the rooms from Tryhackme, i was strugling with the speed of Nmap. 
 - Gobuster - If any commmon web server port port like 80,443,8080 is found. The script will fire up gobuster on it.
 
 
+**Installation**
+
+```
+git clone https://github.com/ch3atk0d3/Zeus.git
+cd Zeus
+chmod +x install.sh
+sudo ./install.sh
+
+```
+
 **Note**
 
 - Specify the wordlist path for gobuster manually for now. Will update the argument for the same in the next iteration.
