@@ -1,5 +1,5 @@
 # Zeus
-Zeus is a CTF enumeration tool built in Python that automates the use common of enumeration and scanning tools and minimize the recon time significantly.
+Zeus is a CTF enumeration tool built in Python that automates the use of common enumeration and scanning tools and minimize the recon time significantly.
 
 The script is built in Python3 and is an attempt to make enumeration faster. 
 
